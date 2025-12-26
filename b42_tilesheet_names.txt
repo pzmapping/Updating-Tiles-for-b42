@@ -96,10 +96,12 @@ brokenglass_1
 camping_01
 camping_02
 camping_03
+camping_03 (ayrton orio's conflicted copy 2025-09-10)
 camping_04
 camping_04_on
 carpentry_01
 carpentry_02
+carpentry_03
 ceilings_01
 clothing_01
 clothing_02
@@ -112,6 +114,7 @@ crafted_02
 crafted_03
 crafted_04
 crafted_05
+crafted_skins_drying_01
 crafting_ore
 d_floorleaves_1
 d_generic_1
@@ -317,6 +320,7 @@ papernotices_01
 preset_depthmaps_01
 radio_tower
 Rain_00
+RainSplash_00
 rain1
 rain2
 rain3
@@ -332,7 +336,18 @@ roofs_03
 roofs_04
 roofs_05
 roofs_06
+roofs_30_01
+roofs_30_02
+roofs_30_03
+roofs_30_04
+roofs_30_05
+roofs_30_06
+roofs_30_07
+roofs_30_08
+roofs_30_09
+roofs_30_10
 roofs_accents_01
+roofs_accents_30_01
 roofs_burnt_01
 roofs_shallow_01
 roofs_test
@@ -431,6 +446,8 @@ walls_decoration_01
 walls_decoration_01_on
 walls_decoration_02
 walls_decoration_03
+walls_decoration_04
+walls_decoration_05
 walls_detailing_01
 walls_detailing_02
 walls_exterior_house_01
@@ -457,6 +474,25 @@ walls_exterior_roofs_07
 walls_exterior_roofs_08
 walls_exterior_roofs_09
 walls_exterior_roofs_10
+walls_exterior_roofs_30_01
+walls_exterior_roofs_30_02
+walls_exterior_roofs_30_03
+walls_exterior_roofs_30_04
+walls_exterior_roofs_30_05
+walls_exterior_roofs_30_06
+walls_exterior_roofs_30_07
+walls_exterior_roofs_30_08
+walls_exterior_roofs_30_09
+walls_exterior_roofs_30_10
+walls_exterior_roofs_30_11
+walls_exterior_roofs_30_12
+walls_exterior_roofs_30_13
+walls_exterior_roofs_30_14
+walls_exterior_roofs_30_15
+walls_exterior_roofs_30_16
+walls_exterior_roofs_30_17
+walls_exterior_roofs_30_18
+walls_exterior_roofs_30_19
 walls_exterior_wooden_01
 walls_exterior_wooden_02
 walls_garage_01
@@ -486,6 +522,9 @@ walls_house_wood_01_MIRRORED
 walls_interior_bathroom_01
 walls_interior_cutaways_01
 walls_interior_detailing_01
+walls_interior_detailing_bathroom_01
+walls_interior_detailing_bathroom_02
+walls_interior_detailing_bathroom_03
 walls_interior_house_01
 walls_interior_house_02
 walls_interior_house_03
@@ -505,6 +544,14 @@ walls_interior_house_16
 walls_interior_house_17
 walls_interior_house_18
 walls_interior_house_19
+walls_interior_house_20
+walls_interior_house_21
+walls_interior_house_22
+walls_interior_house_23
+walls_interior_house_24
+walls_interior_house_25
+walls_interior_house_26
+
 walls_logs
 walls_special_01
 water_tank
@@ -530,4 +577,5 @@ e_cockspurhawthornJUMBO_1
 e_easternredbugJUMBO_1
 e_virginiapineJUMBO_1
 e_yellowwoodJUMBO_1
+
 
