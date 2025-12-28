@@ -49,7 +49,6 @@ crafted_01
 crafted_01_on
 crafted_02
 crafted_02_on
-crafted_03
 crafted_04
 crafted_05
 crafted_05_on
@@ -113,7 +112,6 @@ fixtures_railings_01
 fixtures_sinks_01
 fixtures_stairs_01
 fixtures_windows_01
-fixtures_windows_02
 fixtures_windows_church
 fixtures_windows_curtains_01
 fixtures_windows_curtains_02
@@ -263,7 +261,6 @@ roofs_02
 roofs_03
 roofs_04
 roofs_05
-roofs_06 (not in alrees?)
 roofs_30_01
 roofs_30_02
 roofs_30_03
@@ -481,3 +478,8 @@ walls_special_01
 water_tank
 weapons_01
 z_templates_wallcutaways
+
+not in alrees tilesheet pack:
+roofs_06 
+crafted_03
+fixtures_windows_02
