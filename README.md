@@ -89,14 +89,4 @@ B42ChunkCaching2x Folder
 
 ramps_01
 
-Jumbo Folder
-
-e_americanhollyJUMBO_1
-e_americanlindenJUMBO_1
-e_canadianhemlockJUMBO_1
-e_carolinasilverbellJUMBO_1
-e_cockspurhawthornJUMBO_1
-e_easternredbugJUMBO_1
-e_virginiapineJUMBO_1
-e_yellowwoodJUMBO_1
 
