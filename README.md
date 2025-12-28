@@ -62,9 +62,6 @@ blood_floor_large
 blood_floor_med
 blood_floor_small
 
-e_dogwoodJUMBO_1
-e_redmapleJUMBO_1
-e_riverbirchJUMBO_1
 
 jumbo_tree_01
 
